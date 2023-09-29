@@ -1,0 +1,40 @@
+{
+    "cats": [
+        {
+            "name": "Whiskers",
+            "age": 5,
+            "breed": "Maine Coon",
+            "dateOfBirth": "2018-04-15",
+            "astrologicalSign": "Aries",
+            "ailments": ["allergies"],
+            "currentMedication": ["antihistamines"]
+        },
+        {
+            "name": "Bella",
+            "age": 7,
+            "breed": "Siamese",
+            "dateOfBirth": "2016-05-03",
+            "astrologicalSign": "Taurus",
+            "ailments": ["arthritis"],
+            "currentMedication": ["pain relievers"]
+        },
+        {
+            "name": "Luna",
+            "age": 3,
+            "breed": "British Shorthair",
+            "dateOfBirth": "2020-06-12",
+            "astrologicalSign": "Gemini",
+            "ailments": ["digestive issues"],
+            "currentMedication": ["probiotics"]
+        },
+        {
+            "name": "Oliver",
+            "age": 9,
+            "breed": "Persian",
+            "dateOfBirth": "2014-07-05",
+            "astrologicalSign": "Cancer",
+            "ailments": ["hyperthyroidism"],
+            "currentMedication": ["thyroid medication"]
+        }
+    ]
+}
